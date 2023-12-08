@@ -7,4 +7,5 @@ convention = {
 }
 metadata = MetaData(naming_convention=convention)
 
+
 Base = declarative_base(metadata=metadata)
